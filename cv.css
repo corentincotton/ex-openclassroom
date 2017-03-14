@@ -1,0 +1,26 @@
+body{
+  background-image: url('../image/fond-enquete-l214.jpg');
+}
+h1, p{
+  text-align: center;
+  color: red;
+}
+.nom{
+  color: white;
+  text-align: center;
+}
+.exp{
+  text-align: center;
+  color: red;
+}
+.diplome{
+  text-align: center;
+  color: red;
+}
+.formation{
+  text-align: center;
+  color: red;
+}
+ul{
+  color: white;
+}
